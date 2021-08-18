@@ -12,4 +12,3 @@ Obs.: o código de implementação para validar se o usuário está logado ou n�
 caso não esteja, realizei diferente do que o professor fez, pois implementei antes de ele dar a solução para
 esta questão lançada no fim da aula anterior.
 
-Este é o primeiro commit, projeto em desenvolvimento mediante o curso avança.
