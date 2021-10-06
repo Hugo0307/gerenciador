@@ -1,5 +1,5 @@
 # gerenciador
-CRUD completo usando Servlets: JSP; MVC; Simulação de acesso a um banco de dados; Validação de usuário com login e senha;
+*CRUD completo usando Servlets: JSP; MVC; Simulação de acesso a um banco de dados; Validação de usuário com login e senha;*
 
 Projeto desenvolvido de acordo com o curso de Servlets que aprendi através da plataforma digital Alura.
 Aqui simula um projeto onde quem vai usar o sistema precisa estar logado, seja para acessar a lista de 
@@ -12,3 +12,15 @@ Obs.: o código de implementação para validar se o usuário está logado ou n�
 caso não esteja, realizei diferente do que o professor fez, pois implementei antes de ele dar a solução para
 esta questão lançada no fim da aula anterior.
 
+#Temas abordados:
+
+##-Entenda o que é um Servlet
+##-Mapeie requisições HTTP e trabalhe com POST e GET
+##-Gere HTML dinamicamente com JSP e JSTL
+##-Crie uma CRUD completa e faço o deploy com Tomcat
+##-Saiba o que é inversão de controle
+##-Desenvolve um sistema com autenticação e autorização
+##-Use o objeto HttpSession e aprenda sobre Cookies
+##-Construa as camadas MVC baseados em Filters e Servlets
+##-Faça deploy no servidor Jetty
+##-Implemente o seu próprio WebService com JSON e XML
